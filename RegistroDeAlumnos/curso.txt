@@ -1,0 +1,13 @@
+------------------TABLA ALUMNO------------
+CODIGO    NOMBRE          CREDITOS   
+100          MATEMATICA          4
+
+101          LITERATURA          3
+
+102          INGLES          3
+
+103          BIOLOGIA          2
+
+104          GEOGRAFIA          2
+
+105          ARIMETICA          4

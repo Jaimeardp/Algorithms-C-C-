@@ -1,0 +1,17 @@
+------------------TABLA ALUMNO------------
+CODIGO    NOMBRE          EDAD   
+0          Juan          19
+
+1          Jaime          20
+
+2          Mariana          21
+
+3          Maicol          25
+
+5          Evyen          25
+
+6          Alonso          21
+
+7          Claudi          23
+
+8          Mateo          24

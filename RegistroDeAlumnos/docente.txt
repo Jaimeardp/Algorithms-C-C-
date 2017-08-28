@@ -1,0 +1,11 @@
+------------------TABLA ALUMNO------------
+CODIGO    NOMBRE          DNI   
+0          Jose          9976327
+
+1          Sofia          7744321
+
+2          Paul          7483643
+
+4          Camila          5437852
+
+5          Anthony          5678902
